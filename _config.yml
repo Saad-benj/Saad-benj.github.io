@@ -6,8 +6,9 @@ author:
   name: "Saad Benj"
   email: "email@example.com"
 
-remote_theme: mmistakes/minimal-mistakes
-
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 # Navigation 
 nav:
   - title: "Welcome"
