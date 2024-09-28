@@ -1,5 +1,3 @@
-theme: minimal-mistakes-jekyll
-
 title: "My Engineering Portfolio"
 description: "A portfolio showcasing my 3 years of studies."
 baseurl: ""
@@ -7,6 +5,8 @@ url: "https://saad-benj.github.io" # URL GitHub Pages
 author:
   name: "Saad Benj"
   email: "email@example.com"
+
+remote_theme: mmistakes/minimal-mistakes
 
 # Navigation 
 nav:
